@@ -25,6 +25,7 @@
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
     "expect": "^21.2.1",
+    "fsevents": "^2.2.1",
     "jquery": "^3.5.0",
     "marked": "^0.3.6",
     "mocha-multi": "^1.0.1",
